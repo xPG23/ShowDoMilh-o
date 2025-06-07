@@ -166,7 +166,6 @@ def menu_editar_perguntas():
             elif opc == 2:
                     dificuldade_escolhida = dificuldades[indice - 1]
                     count_dificuldade = dificuldades.count(dificuldade_escolhida)
-                    user_input("Enter","string")
                     if len(enunciado) <= 24:
                         os.system('cls')
                         print("Não é possível excluir mais perguntas! (mínimo: 24 no total)")
@@ -610,11 +609,11 @@ def jogo_UI(pontos, pergunta, alternativas, pulos, cartas):
     print(f"                           Pulos restantes: [{pulos}]\n")
 
     print("              Resultado se você:")
-    print("          ┌────────┬───────────┬───────────────┐")
-    print("          │ Errar  │   Parar   │   Acertar     │")
-    print("          ├────────┼───────────┼───────────────┤")
-    print(f"          │ R${(pontos/2):5.0f}│  R${pontos:7.0f}│ R${valor_pergunta:10.0f}  │")
-    print("          └────────┴───────────┴───────────────┘")
+    print("          ┌────────────┬───────────┬───────────────┐")
+    print("          │   Errar    │   Parar   │    Acertar    │")
+    print("          ├────────────┼───────────┼───────────────┤")
+    print(f"          │   R${(pontos/2):7.0f}│  R${pontos:7.0f}│      R${valor_pergunta:7.0f}│")
+    print("          └────────────┴───────────┴───────────────┘")
 
     print("\n ╚^^════════════════════════════════════════════════════════════════^^╝\n")
 

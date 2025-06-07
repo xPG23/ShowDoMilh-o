@@ -1,0 +1,4 @@
+pj;False
+pulos;True
+cartas;True
+jogador;PG

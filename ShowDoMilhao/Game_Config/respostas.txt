@@ -1,0 +1,24 @@
+São Paulo;Rio de Janeiro;Salvador;Brasília*
+1;5;3;4*
+Bob;Stuart;Minion;Kevin*
+Cachorro;Pato;Cavalo;Gato*
+Rosa;Cinza;Verde;Azul*
+Violão;Flauta;Bateria;Piano*
+Quadrado;Triangular;Oval;Redondo*
+Pikachu;Banana;Minion;Filipinho*
+Clarice Lispector;Drummond;Paulo Coelho;Machado de Assis*
+Vênus;Júpiter;Saturno;Marte*
+26;25;28;27*
+Van Gogh;Picasso;Rembrandt;Da Vinci*
+Gás hélio;Nitrogênio;Gás carbônico;Oxigênio*
+CO2;NaCl;H2SO4;H2O*
+Pulmão;Estômago;Rim;Coração*
+Alemão;Francês;Espanhol;Inglês*
+Newton;Galileu;Tesla;Einstein*
+Oslo;Copenhague;Zurique;Reykjavik*
+98;110;92;104*
+Brasil;Alemanha;Itália;Nenhuma*
+DNA mesmo;Ácido ribonucleico;RNA;Ácido desoxirribonucleico*
+Criador da WWW;Filósofo;Matemático;Pai da computação*
+3,1421;3,1416;3,1419;3,1415*
+Mozart;Bach;Tchaikovsky;Beethoven*

@@ -385,6 +385,10 @@ def reduzir_lista(n,lista):
     resposta = separar_resposta(lista)
     erradas = []
     
+    if n == 3:
+        erradas.append(resposta)
+        return erradas
+
     for alternativa in lista:
         if alternativa != resposta:
             erradas.append(alternativa)
@@ -433,7 +437,6 @@ def escolher_cartas():
             os.system('cls')
             print("Sua carta foi:")
             print(f" {cartas[escolha-1]} | 🂠 | 🂠 | 🂠 ")
-            print(cartas)
             user_input("Pressione qualquer tecla para continuar...","string")
             return cartas[escolha-1]
         elif escolha == 2:
@@ -501,7 +504,7 @@ def jogar():
     pergunta,alternativas = selecionar_pergunta(round,listaP,listaR,garbageColector)
 
     os.system('cls')
-    while round <= 16:
+    while round < 16:
         escolha = jogo_UI(pontos,pergunta,alternativas,pulos,cartas)
         resposta = separar_resposta(alternativas)    
         if escolha > 0 and escolha <= len(alternativas):

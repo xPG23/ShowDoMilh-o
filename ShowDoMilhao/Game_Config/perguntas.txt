@@ -1,0 +1,24 @@
+1;Qual é a capital do Brasil?
+1;Quanto é 2 + 2?
+1;Qual o nome do personagem amarelo dos Minions?
+1;Qual animal faz 'miau'?
+1;Qual é a cor do céu em um dia claro?
+1;Qual instrumento tem teclas pretas e brancas?
+1;Qual é o formato da bola de futebol?
+1;Quem é o amarelinho?
+2;Quem escreveu 'Dom Casmurro'?
+2;Qual planeta é conhecido como planeta vermelho?
+2;Quantos estados tem o Brasil?
+2;Quem pintou a Mona Lisa?
+2;Qual gás usamos para respirar?
+2;Qual é a fórmula da água?
+2;Que órgão bombeia o sangue?
+2;Que língua se fala na Austrália?
+3;Quem descobriu a teoria da relatividade?
+3;Qual a capital da Islândia?
+3;Quantos elementos tem a tabela periódica?
+3;Quem venceu a Copa do Mundo de 1982?
+3;Qual o nome científico do DNA?
+3;Quem foi Alan Turing?
+3;Qual é o número pi com 4 casas?
+3;Quem compôs a Nona Sinfonia?

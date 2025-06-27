@@ -1,24 +1,25 @@
-1;Qual È a capital do Brasil?
-1;Quanto È 2 + 2?
+1;Qual √© a capital do Brasil?
+1;Quanto √© 2 + 2?
 1;Qual o nome do personagem amarelo dos Minions?
 1;Qual animal faz 'miau'?
-1;Qual È a cor do cÈu em um dia claro?
+1;Qual √© a cor do c√©u em um dia claro?
 1;Qual instrumento tem teclas pretas e brancas?
-1;Qual È o formato da bola de futebol?
-1;Quem È o amarelinho?
+1;Qual √© o formato da bola de futebol?
+1;Quem √© o amarelinho?
 2;Quem escreveu 'Dom Casmurro'?
-2;Qual planeta È conhecido como planeta vermelho?
+2;Qual planeta √© conhecido como planeta vermelho?
 2;Quantos estados tem o Brasil?
 2;Quem pintou a Mona Lisa?
-2;Qual g·s usamos para respirar?
-2;Qual È a fÛrmula da ·gua?
-2;Que Ûrg„o bombeia o sangue?
-2;Que lÌngua se fala na Austr·lia?
+2;Qual g√°s usamos para respirar?
+2;Qual √© a f√≥rmula da √°gua?
+2;Que √≥rg√£o bombeia o sangue?
+2;Que l√≠ngua se fala na Austr√°lia?
 3;Quem descobriu a teoria da relatividade?
-3;Qual a capital da Isl‚ndia?
-3;Quantos elementos tem a tabela periÛdica?
+3;Qual a capital da Isl√¢ndia?
+3;Quantos elementos tem a tabela peri√≥dica?
 3;Quem venceu a Copa do Mundo de 1982?
-3;Qual o nome cientÌfico do DNA?
+3;Qual o nome cient√≠fico do DNA?
 3;Quem foi Alan Turing?
-3;Qual È o n˙mero pi com 4 casas?
-3;Quem compÙs a Nona Sinfonia?
+3;Qual √© o n√∫mero pi com 4 casas?
+3;Quem comp√¥s a Nona Sinfonia?
+3;Em que n√∫mero de apartamento mora o Meu Sadruga?
